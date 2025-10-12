@@ -1,29 +1,62 @@
-# Hi there, I'm Avinesh Kumar Pathak 👋
+# 👋 Hi, I'm Avinesh Kumar Pathak
 
-### A passionate Data Analyst from Lucknow
-
-* 🔭 I’m currently working on Bank customer chern analysis project
-* 🌱 I’m currently learning Data Analysis 
-* 👯 I’m looking to collaborate on ...
-* 💬 Ask me about ...
-* 📫 How to reach me: avinesh.pathak5@gmail.com
-* ⚡ Fun fact: ...
+**💼 Data Analyst | SQL | Python | Power BI | Excel**  
+📊 *Passionate about turning data into actionable insights.*
 
 ---
 
-### 🛠️ My Tech Stack
-
-Here are a few technologies I've been working with recently:
-
-* **Frontend:** Excel,Power BI,Pyhon,My SQL
-* **Backend:** DAX,Pandas,Seaborn,Matplotlyb,Plotly
-* **Database:** SQL,EXCEL
-* **Tools:** Git, 
+### 🚀 About Me
+- 🔍 Skilled in transforming raw data into meaningful dashboards and reports.  
+- 📈 Strong foundation in SQL, Python, Excel, and Power BI for end-to-end data analytics.  
+- 🤖 Interested in Machine Learning and Predictive Analytics.  
+- 🌱 Currently exploring advanced analytics and storytelling with data.  
+- 📬 Reach me at **avinesh.pathak5@gmail.com** | 📱 **6388008025**  
+- 🔗 Connect on [LinkedIn](https://linkedin.com/in/avineshpathak)
 
 ---
 
-### 🔗 Connect with me:
-www.linkedin.com/in/avinesh-pathak-57a9221b2
+### 🧠 Tech Stack
+| Category | Tools |
+|-----------|-------|
+| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| **Data Visualization** | Power BI, Excel Dashboards |
+| **Database** | MySQL, SQL Server |
+| **Other Skills** | Data Cleaning, Data Modeling, ETL, Reporting |
 
-6388008025
-9889596381
+---
+
+### 📂 Featured Projects
+
+#### 🏥 Healthcare Dashboard
+- Visualized patient outcomes and hospital performance using **Power BI**.
+- Built KPIs for recovery rates, treatment timelines, and resource utilization.
+
+#### 🛒 Sales Performance Analysis
+- Analyzed sales trends across regions and categories using **SQL** and **Excel**.
+- Identified top-performing segments and created automated dashboards.
+
+#### 📈 Predictive Analytics (Python)
+- Used **machine learning models** to forecast sales and customer churn.
+
+---
+
+### 🏆 Highlights
+- 📚 Completed Capstone Project in Data Analytics (Healthcare Domain)
+- 🧩 Strong analytical mindset and attention to detail
+- 🤝 Open to collaboration on data analytics or visualization projects
+
+---
+
+### ⚡ Fun Fact
+🎸 Music lover | ☕ Coffee enthusiast | 💡 Lifelong learner
+
+---
+
+### 📫 Let’s Connect!
+- 📧 **Email:** [avinesh.pathak5@gmail.com](mailto:avinesh.pathak5@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/avineshpathak](https://linkedin.com/in/avineshpathak)  
+- 🌍 **GitHub:** [github.com/Avinesh-Kumar-Pathak](https://github.com/Avinesh-Kumar-Pathak)
+
+---
+
+⭐ *"Data is the new oil — I love refining it into valuable insights!"*
