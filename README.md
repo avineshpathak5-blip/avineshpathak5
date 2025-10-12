@@ -10,7 +10,7 @@
 - 📈 Strong foundation in SQL, Python, Excel, and Power BI for end-to-end data analytics.  
 - 🤖 Interested in Machine Learning and Predictive Analytics.  
 - 🌱 Currently exploring advanced analytics and storytelling with data.  
-- 📬 Reach me at **avinesh.pathak5@gmail.com** | 📱 **6388008025**  
+- 📬 Reach me at **avinesh.pathak5@gmail.com** | 📱 **6388008025** | **9889596381** 
 - 🔗 Connect on [LinkedIn](https://linkedin.com/in/avineshpathak)
 
 ---
