@@ -54,8 +54,8 @@
 
 ### 📫 Let’s Connect!
 - 📧 **Email:** [avinesh.pathak5@gmail.com](mailto:avinesh.pathak5@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/avineshpathak](https://linkedin.com/in/avineshpathak)  
-- 🌍 **GitHub:** [github.com/Avinesh-Kumar-Pathak](https://github.com/Avinesh-Kumar-Pathak)
+- 💼 **LinkedIn:** [www.linkedin.com/in/avinesh-pathak-57a9221b2](www.linkedin.com/in/avinesh-pathak-57a9221b2)  
+- 🌍 **GitHub:** [[github.com/Avinesh-Kumar-Pathak](https://github.com/avineshpathak5-blip/avineshpathak5.git)]([https://github.com/Avinesh-Kumar-Pathak](https://github.com/avineshpathak5-blip/avineshpathak5.git))
 
 ---
 
